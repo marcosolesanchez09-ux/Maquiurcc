@@ -1,0 +1,821 @@
+{
+  "clubs": {
+    "club-mwmfmd78-annf": {
+      "id": "club-mwmfmd78-annf",
+      "name": "Atlético Estrella",
+      "managerName": "Míster",
+      "budget": 750,
+      "formationId": "4-3-3",
+      "customFormation": null,
+      "starters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bench": [
+        null,
+        null,
+        null
+      ],
+      "reserves": [],
+      "dailyPurchasedKeys": [],
+      "matchHistory": [],
+      "record": {
+        "wins": 0,
+        "draws": 0,
+        "losses": 0
+      },
+      "createdAt": "2026-11-18T18:05:38.516Z",
+      "draftCompleted": false,
+      "tactics": {
+        "playStyle": "balanced",
+        "mentality": "balanced",
+        "captainId": null,
+        "penaltyTakerId": null
+      }
+    },
+    "club-mwmfx38t-kjc3": {
+      "id": "club-mwmfx38t-kjc3",
+      "name": "Test Draft FC",
+      "managerName": "Test",
+      "budget": 50,
+      "draftCompleted": true,
+      "formationId": "4-3-3",
+      "customFormation": null,
+      "starters": [
+        "joan-garcia",
+        "jose-gaya",
+        "dani-carvajal",
+        "miguel-gutierrez",
+        "dani-vivian",
+        "pablo-barrios",
+        "isco",
+        "oihan-sancet",
+        "lewandowski",
+        "antoine-griezmann",
+        "mikel-oyarzabal"
+      ],
+      "bench": [
+        "alex-remiro",
+        "adrien-rabiot",
+        "alexandre-lacazette"
+      ],
+      "reserves": [],
+      "dailyPurchasedKeys": [],
+      "matchHistory": [],
+      "record": {
+        "wins": 0,
+        "draws": 0,
+        "losses": 0
+      },
+      "createdAt": "2026-11-18T18:13:58.830Z",
+      "tactics": {
+        "playStyle": "balanced",
+        "mentality": "balanced",
+        "captainId": null,
+        "penaltyTakerId": null
+      }
+    },
+    "club-mwmg4z9s-3s9w": {
+      "id": "club-mwmg4z9s-3s9w",
+      "name": "Atlético Estrella",
+      "managerName": "Míster",
+      "budget": 750,
+      "draftCompleted": false,
+      "formationId": "4-3-3",
+      "customFormation": null,
+      "starters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bench": [
+        null,
+        null,
+        null
+      ],
+      "reserves": [],
+      "dailyPurchasedKeys": [],
+      "matchHistory": [],
+      "record": {
+        "wins": 0,
+        "draws": 0,
+        "losses": 0
+      },
+      "createdAt": "2026-11-18T18:20:06.928Z",
+      "tactics": {
+        "playStyle": "balanced",
+        "mentality": "balanced",
+        "captainId": null,
+        "penaltyTakerId": null
+      }
+    },
+    "club-mwmgd284-lm9p": {
+      "id": "club-mwmgd284-lm9p",
+      "name": "Test Química FC",
+      "managerName": "Tester",
+      "budget": 386,
+      "draftCompleted": false,
+      "formationId": "4-3-3",
+      "customFormation": null,
+      "tactics": {
+        "playStyle": "balanced",
+        "mentality": "balanced",
+        "captainId": null,
+        "penaltyTakerId": null
+      },
+      "starters": [
+        "ter-stegen",
+        "dani-carvajal",
+        "jose-maria-gimenez",
+        "dani-vivian",
+        "miguel-gutierrez",
+        "rodrigo-de-paul",
+        "isco",
+        "pablo-barrios",
+        "lewandowski",
+        "antoine-griezmann",
+        "mikel-oyarzabal"
+      ],
+      "bench": [
+        null,
+        null,
+        null
+      ],
+      "reserves": [],
+      "dailyPurchasedKeys": [],
+      "matchHistory": [],
+      "record": {
+        "wins": 0,
+        "draws": 0,
+        "losses": 0
+      },
+      "createdAt": "2026-11-18T18:26:24.004Z"
+    },
+    "club-mwmgd80l-vmdv": {
+      "id": "club-mwmgd80l-vmdv",
+      "name": "Test Química FC",
+      "managerName": "Tester",
+      "budget": 421,
+      "draftCompleted": false,
+      "formationId": "4-3-3",
+      "customFormation": null,
+      "tactics": {
+        "playStyle": "high_press",
+        "mentality": "attacking",
+        "captainId": "rodrigo-de-paul",
+        "penaltyTakerId": "antoine-griezmann"
+      },
+      "starters": [
+        "ter-stegen",
+        "dani-carvajal",
+        "jose-maria-gimenez",
+        "dani-vivian",
+        "miguel-gutierrez",
+        "rodrigo-de-paul",
+        "isco",
+        "pablo-barrios",
+        "lewandowski",
+        "antoine-griezmann",
+        "mikel-oyarzabal"
+      ],
+      "bench": [
+        null,
+        null,
+        null
+      ],
+      "reserves": [],
+      "dailyPurchasedKeys": [],
+      "matchHistory": [
+        {
+          "id": "match-mwmgd83x-msq",
+          "playedAt": "2026-11-18T18:26:31.629Z",
+          "difficulty": "profesional",
+          "difficultyLabel": "Profesional",
+          "botTeamName": "Real Iberia Bot",
+          "botOverall": 82,
+          "userOverall": 84.5,
+          "chemistryScore": 100,
+          "chemistryBonus": 4.5,
+          "playStyleLabel": "Presión Alta (Gegenpress) (Ofensiva)",
+          "userGoals": 3,
+          "botGoals": 1,
+          "outcome": "win",
+          "reward": 35,
+          "possessionUser": 57,
+          "shotsUser": 13,
+          "shotsBot": 7,
+          "events": [
+            {
+              "minute": 27,
+              "team": "user",
+              "type": "chance",
+              "title": "Conexión de Química (100/100)",
+              "detail": "De Paul aprovecha la sintonía del bloque (+4.5 OVR) para generar una ocasión clara."
+            },
+            {
+              "minute": 28,
+              "team": "user",
+              "type": "save",
+              "title": "Parada decisiva de Ter Stegen",
+              "detail": "Ter Stegen evita el tanto rival con una estirada abajo."
+            },
+            {
+              "minute": 51,
+              "team": "user",
+              "type": "chance",
+              "title": "Liderazgo del capitán De Paul",
+              "detail": "El capitán ordena al equipo en el esquema 4-3-3 (Presión Alta (Gegenpress) · Ofensiva)."
+            },
+            {
+              "minute": 57,
+              "team": "user",
+              "type": "goal",
+              "title": "¡Gol de Oyarzabal!",
+              "detail": "Test Química FC marca tras robo en campo contrario por medio de Mikel Oyarzabal (DC)."
+            },
+            {
+              "minute": 73,
+              "team": "bot",
+              "type": "goal",
+              "title": "Gol de K. Brandt (Real Iberia Bot)",
+              "detail": "Real Iberia Bot culmina un ataque rápido ante Ter Stegen."
+            },
+            {
+              "minute": 78,
+              "team": "user",
+              "type": "penalty",
+              "title": "¡Gol de penalti de Griezmann!",
+              "detail": "Antoine Griezmann asume la responsabilidad y engaña al portero rival (Tiro 87)."
+            },
+            {
+              "minute": 86,
+              "team": "user",
+              "type": "goal",
+              "title": "¡Gol de Isco!",
+              "detail": "Test Química FC marca tras robo en campo contrario por medio de Isco Alarcón (MCO)."
+            }
+          ]
+        }
+      ],
+      "record": {
+        "wins": 1,
+        "draws": 0,
+        "losses": 0
+      },
+      "createdAt": "2026-11-18T18:26:31.509Z"
+    },
+    "club-mwmh3hhk-crlp": {
+      "id": "club-mwmh3hhk-crlp",
+      "name": "Atlético Estrella",
+      "managerName": "Míster",
+      "budget": 750,
+      "draftCompleted": false,
+      "formationId": "4-3-3",
+      "customFormation": null,
+      "tactics": {
+        "playStyle": "balanced",
+        "mentality": "balanced",
+        "captainId": null,
+        "penaltyTakerId": null
+      },
+      "starters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bench": [
+        null,
+        null,
+        null
+      ],
+      "reserves": [],
+      "dailyPurchasedKeys": [],
+      "matchHistory": [],
+      "record": {
+        "wins": 0,
+        "draws": 0,
+        "losses": 0
+      },
+      "createdAt": "2026-11-18T18:46:56.840Z"
+    }
+  },
+  "marketListings": [
+    {
+      "id": "mkt-2026-11-18-denzel-dumfries",
+      "playerId": "denzel-dumfries",
+      "player": {
+        "id": "denzel-dumfries",
+        "name": "Denzel Dumfries",
+        "shortName": "Dumfries",
+        "position": "DEF",
+        "role": "LD",
+        "overall": 83,
+        "age": 30,
+        "nationality": "Países Bajos",
+        "club": "Inter de Milán",
+        "league": "Serie A",
+        "marketValue": 34,
+        "shirtNumber": 2,
+        "clubColor": "#1D4ED8",
+        "clubAccent": "#0F172A",
+        "stats": {
+          "pace": 85,
+          "shooting": 61,
+          "passing": 78,
+          "dribbling": 75,
+          "defending": 85,
+          "physical": 82
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-milano",
+      "sellerClubName": "Calcio Milano",
+      "sellerManager": "L. Conti",
+      "price": 37,
+      "listedAt": "2026-11-18T18:01:26.384Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-rodrygo",
+      "playerId": "rodrygo",
+      "player": {
+        "id": "rodrygo",
+        "name": "Rodrygo Goes",
+        "shortName": "Rodrygo",
+        "position": "DEL",
+        "role": "ED",
+        "overall": 86,
+        "age": 25,
+        "nationality": "Brasil",
+        "club": "Real Madrid",
+        "league": "LaLiga",
+        "marketValue": 82,
+        "shirtNumber": 11,
+        "clubColor": "#E2E8F0",
+        "clubAccent": "#1E293B",
+        "stats": {
+          "pace": 88,
+          "shooting": 87,
+          "passing": 80,
+          "dribbling": 87,
+          "defending": 44,
+          "physical": 79
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-milano",
+      "sellerClubName": "Calcio Milano",
+      "sellerManager": "L. Conti",
+      "price": 95,
+      "listedAt": "2026-11-18T17:59:26.331Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-kenan-yildiz",
+      "playerId": "kenan-yildiz",
+      "player": {
+        "id": "kenan-yildiz",
+        "name": "Kenan Yıldız",
+        "shortName": "Yıldız",
+        "position": "DEL",
+        "role": "EI",
+        "overall": 82,
+        "age": 21,
+        "nationality": "Turquía",
+        "club": "Juventus",
+        "league": "Serie A",
+        "marketValue": 48,
+        "shirtNumber": 10,
+        "clubColor": "#F8FAFC",
+        "clubAccent": "#0F172A",
+        "stats": {
+          "pace": 84,
+          "shooting": 83,
+          "passing": 76,
+          "dribbling": 83,
+          "defending": 40,
+          "physical": 75
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-riviera",
+      "sellerClubName": "Olympique Riviera",
+      "sellerManager": "T. Moreau",
+      "price": 55,
+      "listedAt": "2026-11-18T17:27:52.691Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-victor-boniface",
+      "playerId": "victor-boniface",
+      "player": {
+        "id": "victor-boniface",
+        "name": "Victor Boniface",
+        "shortName": "Boniface",
+        "position": "DEL",
+        "role": "DC",
+        "overall": 84,
+        "age": 25,
+        "nationality": "Nigeria",
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "marketValue": 50,
+        "shirtNumber": 22,
+        "clubColor": "#DC2626",
+        "clubAccent": "#111827",
+        "stats": {
+          "pace": 86,
+          "shooting": 85,
+          "passing": 78,
+          "dribbling": 85,
+          "defending": 42,
+          "physical": 77
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-norte",
+      "sellerClubName": "Atlético Norte",
+      "sellerManager": "M. Mendoza",
+      "price": 47,
+      "listedAt": "2026-11-18T17:25:09.084Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-alejandro-balde",
+      "playerId": "alejandro-balde",
+      "player": {
+        "id": "alejandro-balde",
+        "name": "Alejandro Balde",
+        "shortName": "Balde",
+        "position": "DEF",
+        "role": "LI",
+        "overall": 83,
+        "age": 23,
+        "nationality": "España",
+        "club": "FC Barcelona",
+        "league": "LaLiga",
+        "marketValue": 48,
+        "shirtNumber": 3,
+        "clubColor": "#1D4ED8",
+        "clubAccent": "#991B1B",
+        "stats": {
+          "pace": 85,
+          "shooting": 61,
+          "passing": 78,
+          "dribbling": 75,
+          "defending": 85,
+          "physical": 82
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-riviera",
+      "sellerClubName": "Olympique Riviera",
+      "sellerManager": "T. Moreau",
+      "price": 46,
+      "listedAt": "2026-11-18T16:59:27.723Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-pedri",
+      "playerId": "pedri",
+      "player": {
+        "id": "pedri",
+        "name": "Pedri González",
+        "shortName": "Pedri",
+        "position": "MED",
+        "role": "MC",
+        "overall": 88,
+        "age": 23,
+        "nationality": "España",
+        "club": "FC Barcelona",
+        "league": "LaLiga",
+        "marketValue": 85,
+        "shirtNumber": 8,
+        "clubColor": "#1D4ED8",
+        "clubAccent": "#991B1B",
+        "stats": {
+          "pace": 82,
+          "shooting": 81,
+          "passing": 91,
+          "dribbling": 89,
+          "defending": 74,
+          "physical": 83
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-norte",
+      "sellerClubName": "Atlético Norte",
+      "sellerManager": "M. Mendoza",
+      "price": 92,
+      "listedAt": "2026-11-18T16:43:42.794Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-xavi-simons",
+      "playerId": "xavi-simons",
+      "player": {
+        "id": "xavi-simons",
+        "name": "Xavi Simons",
+        "shortName": "X. Simons",
+        "position": "MED",
+        "role": "MCO",
+        "overall": 85,
+        "age": 23,
+        "nationality": "Países Bajos",
+        "club": "RB Leipzig",
+        "league": "Bundesliga",
+        "marketValue": 74,
+        "shirtNumber": 10,
+        "clubColor": "#F8FAFC",
+        "clubAccent": "#DC2626",
+        "stats": {
+          "pace": 79,
+          "shooting": 78,
+          "passing": 88,
+          "dribbling": 86,
+          "defending": 71,
+          "physical": 80
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-norte",
+      "sellerClubName": "Atlético Norte",
+      "sellerManager": "M. Mendoza",
+      "price": 68,
+      "listedAt": "2026-11-18T16:07:45.780Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-dusan-vlahovic",
+      "playerId": "dusan-vlahovic",
+      "player": {
+        "id": "dusan-vlahovic",
+        "name": "Dušan Vlahović",
+        "shortName": "Vlahović",
+        "position": "DEL",
+        "role": "DC",
+        "overall": 85,
+        "age": 26,
+        "nationality": "Serbia",
+        "club": "Juventus",
+        "league": "Serie A",
+        "marketValue": 58,
+        "shirtNumber": 9,
+        "clubColor": "#F8FAFC",
+        "clubAccent": "#0F172A",
+        "stats": {
+          "pace": 87,
+          "shooting": 86,
+          "passing": 79,
+          "dribbling": 86,
+          "defending": 43,
+          "physical": 78
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-london",
+      "sellerClubName": "Thames United",
+      "sellerManager": "J. Sterling",
+      "price": 60,
+      "listedAt": "2026-11-18T15:04:56.573Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-yann-sommer",
+      "playerId": "yann-sommer",
+      "player": {
+        "id": "yann-sommer",
+        "name": "Yann Sommer",
+        "shortName": "Sommer",
+        "position": "POR",
+        "role": "POR",
+        "overall": 85,
+        "age": 37,
+        "nationality": "Suiza",
+        "club": "Inter de Milán",
+        "league": "Serie A",
+        "marketValue": 16,
+        "shirtNumber": 1,
+        "clubColor": "#1D4ED8",
+        "clubAccent": "#0F172A",
+        "stats": {
+          "pace": 55,
+          "shooting": 43,
+          "passing": 81,
+          "dribbling": 60,
+          "defending": 85,
+          "physical": 83
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-baviera",
+      "sellerClubName": "Sportverein Süd",
+      "sellerManager": "K. Weber",
+      "price": 18,
+      "listedAt": "2026-11-18T14:36:57.423Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-benjamin-sesko",
+      "playerId": "benjamin-sesko",
+      "player": {
+        "id": "benjamin-sesko",
+        "name": "Benjamin Šeško",
+        "shortName": "Šeško",
+        "position": "DEL",
+        "role": "DC",
+        "overall": 84,
+        "age": 23,
+        "nationality": "Eslovenia",
+        "club": "RB Leipzig",
+        "league": "Bundesliga",
+        "marketValue": 62,
+        "shirtNumber": 30,
+        "clubColor": "#F8FAFC",
+        "clubAccent": "#DC2626",
+        "stats": {
+          "pace": 86,
+          "shooting": 85,
+          "passing": 78,
+          "dribbling": 85,
+          "defending": 42,
+          "physical": 77
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-baviera",
+      "sellerClubName": "Sportverein Süd",
+      "sellerManager": "K. Weber",
+      "price": 59,
+      "listedAt": "2026-11-18T14:27:30.619Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-gavi",
+      "playerId": "gavi",
+      "player": {
+        "id": "gavi",
+        "name": "Pablo Páez Gavi",
+        "shortName": "Gavi",
+        "position": "MED",
+        "role": "MC",
+        "overall": 85,
+        "age": 22,
+        "nationality": "España",
+        "club": "FC Barcelona",
+        "league": "LaLiga",
+        "marketValue": 72,
+        "shirtNumber": 6,
+        "clubColor": "#1D4ED8",
+        "clubAccent": "#991B1B",
+        "stats": {
+          "pace": 79,
+          "shooting": 78,
+          "passing": 88,
+          "dribbling": 86,
+          "defending": 71,
+          "physical": 80
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-baviera",
+      "sellerClubName": "Sportverein Süd",
+      "sellerManager": "K. Weber",
+      "price": 73,
+      "listedAt": "2026-11-18T13:57:05.178Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-paulo-dybala",
+      "playerId": "paulo-dybala",
+      "player": {
+        "id": "paulo-dybala",
+        "name": "Paulo Dybala",
+        "shortName": "Dybala",
+        "position": "DEL",
+        "role": "SD",
+        "overall": 85,
+        "age": 32,
+        "nationality": "Argentina",
+        "club": "AS Roma",
+        "league": "Serie A",
+        "marketValue": 30,
+        "shirtNumber": 21,
+        "clubColor": "#991B1B",
+        "clubAccent": "#F59E0B",
+        "stats": {
+          "pace": 87,
+          "shooting": 86,
+          "passing": 79,
+          "dribbling": 86,
+          "defending": 43,
+          "physical": 78
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-london",
+      "sellerClubName": "Thames United",
+      "sellerManager": "J. Sterling",
+      "price": 32,
+      "listedAt": "2026-11-18T13:45:38.427Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-alphonso-davies",
+      "playerId": "alphonso-davies",
+      "player": {
+        "id": "alphonso-davies",
+        "name": "Alphonso Davies",
+        "shortName": "Davies",
+        "position": "DEF",
+        "role": "LI",
+        "overall": 85,
+        "age": 26,
+        "nationality": "Canadá",
+        "club": "Bayern Múnich",
+        "league": "Bundesliga",
+        "marketValue": 56,
+        "shirtNumber": 19,
+        "clubColor": "#DC2626",
+        "clubAccent": "#FFFFFF",
+        "stats": {
+          "pace": 87,
+          "shooting": 63,
+          "passing": 80,
+          "dribbling": 77,
+          "defending": 87,
+          "physical": 84
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-milano",
+      "sellerClubName": "Calcio Milano",
+      "sellerManager": "L. Conti",
+      "price": 63,
+      "listedAt": "2026-11-18T13:15:46.909Z",
+      "isSystemClub": true
+    },
+    {
+      "id": "mkt-2026-11-18-unai-simon",
+      "playerId": "unai-simon",
+      "player": {
+        "id": "unai-simon",
+        "name": "Unai Simón",
+        "shortName": "U. Simón",
+        "position": "POR",
+        "role": "POR",
+        "overall": 85,
+        "age": 29,
+        "nationality": "España",
+        "club": "Athletic Club",
+        "league": "LaLiga",
+        "marketValue": 34,
+        "shirtNumber": 1,
+        "clubColor": "#B91C1C",
+        "clubAccent": "#FFFFFF",
+        "stats": {
+          "pace": 55,
+          "shooting": 43,
+          "passing": 81,
+          "dribbling": 60,
+          "defending": 85,
+          "physical": 83
+        },
+        "dailyEligible": true
+      },
+      "sellerClubId": "rival-riviera",
+      "sellerClubName": "Olympique Riviera",
+      "sellerManager": "T. Moreau",
+      "price": 37,
+      "listedAt": "2026-11-18T13:12:48.145Z",
+      "isSystemClub": true
+    }
+  ],
+  "externalPlayers": {},
+  "seededMarketDate": "2026-11-18"
+}
